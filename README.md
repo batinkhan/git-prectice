@@ -1,2 +1,2 @@
 # git-prectice
-optional
+index page
